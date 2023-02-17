@@ -77,3 +77,6 @@ function startOver() {
   gamePattern = [];
   started = false;
 }
+
+//ahhhhhhhhhhhh
+//faizAhmed
